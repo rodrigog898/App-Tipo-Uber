@@ -1,0 +1,8 @@
+{
+  "name": "tellevoapp",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
