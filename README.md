@@ -1,6 +1,8 @@
 # App-Tipo-Uber
 
-APP Subida a mediafire Link 
+Nota: Los codigos que estan en el repositorio estan de adorno esta todo en el link (mediafire) debido a la cantidad de archivos no se puso subir a git
+
+APP Subida a mediafire Link : https://www.mediafire.com/file/nfvny2d9syilc5z/tellevoapp2.rar/file
 
 App cuenta con user predifinidos 
 
@@ -8,9 +10,10 @@ App cuenta con user predifinidos
 
  Luego pasa a un menu que existen las posibilidades de cerrar sesion o elegir al conductor 
  
- https://cdn.discordapp.com/attachments/292364080994320394/984278090517725234/unknown.png
+![image](https://user-images.githubusercontent.com/82234888/172750380-d952d027-ac29-492d-96ad-f72792c96369.png)
+
  
- Aqui se encuentar todos los conductores 
+Aqui se encuentar todos los conductores 
  
  ![image](https://user-images.githubusercontent.com/82234888/172749982-d78f4a5d-a4e4-4273-98c6-179daed25812.png)
 
@@ -21,8 +24,7 @@ Perfil Del conductor
 
 Formulario para pedir uber
 
-https://cdn.discordapp.com/attachments/292364080994320394/984278410949963786/unknown.png
+![image](https://user-images.githubusercontent.com/82234888/172750394-0ce53bbf-9cd1-4aa2-8423-b607b1165c82.png)
 
 
 
-Nota: Los codigos que estan en el repositorio estan de adorno esta todo en el link debido a la cantidad de archivos no se puso subir a git
